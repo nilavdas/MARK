@@ -9,3 +9,5 @@ pyjokes
 requests
 speechrecognition
 pyfiglet
+pvporcupine
+pvporcupinedemo
