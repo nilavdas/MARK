@@ -1,8 +1,10 @@
 # MARK
-# WAKE WORD DETECTION
+# WAKE WORD DETECTION BUILT IN 
+# FRIDAY VOICE 
+# ASK MATHEMATICS QUESTION 
 # ANY PROBLEM DM ME - NILAVDAS0180 online 24/7 :)
 python project (assistant)
-
+*** FOR YOU THE WAKE WORD WILL BE IN DEFAULT SO , YOUR WAKE WORD WILL BLUEBERRY FOR CUSTOM WAKE WORD https://picovoice.ai/console/
 we all know how to make a assistant with python
 i am here to help you how to make your own wake word detection
 we will use picovoice detection
