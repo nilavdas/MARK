@@ -1,0 +1,11 @@
+pyttsx3
+wikipedia
+playsound
+pause
+pyautogui
+wolframalpha==4.0.0
+keyboard
+pyjokes
+requests
+speechrecognition
+pyfiglet
