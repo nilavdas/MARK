@@ -240,7 +240,7 @@ import keyboard
 online()
 def main():
     try:
-        os.system('porcupine_demo_mic --keywords hey')
+        os.system('porcupine_demo_mic --keywords blueberry')
         playsound('C:\\Users\\ADMIN\\Desktop\\VIRTUAL ASSISTANT\\chime.wav')
         voice_data = takecommand().lower()
         if 'beatbox' in voice_data or 'bit box' in voice_data or 'big box' in voice_data or 'bigbox' in voice_data:
